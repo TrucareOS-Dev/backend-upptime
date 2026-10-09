@@ -19,7 +19,7 @@ sites:
     url: $SECRET_SITE_PROD_PMS
     expectedStatusCodes:
       - 401
-  - name: Prod Job
+  - name: Prod JOB
     url: $SECRET_SITE_PROD_JOB
     expectedStatusCodes:
       - 404
