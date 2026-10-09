@@ -53,7 +53,7 @@ status-website:
     - title: Status
       href: /
 
-runner: "[self-hosted]"
+runner: "[hosted]"
 
 workflowSchedule:
   graphs: "0 0 * * *"
