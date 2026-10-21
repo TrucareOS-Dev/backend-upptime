@@ -31,10 +31,12 @@ sites:
     url: $SECRET_SITE_PROD_INTAKE
     expectedStatusCodes:
       - 401  
-  - name: Prod EOB
-    url: $SECRET_SITE_PROD_EOB
   - name: Prod INTEGRATION
     url: $SECRET_SITE_PROD_INTEGRATION
+    expectedStatusCodes:
+      - 404
+  - name: Prod EOB
+    url: $SECRET_SITE_PROD_EOB
     
 assignees:
   - devtrucarebilling
