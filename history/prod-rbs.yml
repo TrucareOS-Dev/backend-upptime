@@ -1,7 +1,7 @@
 url: $SECRET_SITE_PROD_RBS
 status: up
 code: 401
-responseTime: 255
-lastUpdated: 2026-10-24T23:10:19.231Z
+responseTime: 213
+lastUpdated: 2026-10-25T23:11:29.232Z
 startTime: 2026-10-08T11:50:22.408Z
 generator: Upptime <https://github.com/upptime/upptime>
