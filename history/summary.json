@@ -4,19 +4,19 @@
     "url": "$SECRET_SITE_PROD_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-auth",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 214,
-    "timeWeek": 207,
-    "timeMonth": 240,
-    "timeYear": 245,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 244,
+    "timeDay": 209,
+    "timeWeek": 206,
+    "timeMonth": 239,
+    "timeYear": 244,
     "dailyMinutesDown": {
-      "2026-11-21": 0
+      "2026-11-21": 8
     }
   },
   {
